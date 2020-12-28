@@ -1,0 +1,81 @@
+{
+  "Format": "1.19.0",
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "Characters/Mariner",
+      "FromFile": "assets/Sabrina.png",
+      "When": {
+        "Language": "en",
+        "Season": "spring"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/Locations",
+      "Entries": {
+        "Beach_Mariner_Player_Male": "boy",
+        "Beach_Mariner_Player_Female": "missy",
+        "Beach_Mariner_PlayerMarried": "Sabrina: I am glad that the amulet worked out for you, sugar.",
+        "Beach_Mariner_PlayerHasItem": "Sabrina: Do not be shy, now. Show that amulet to the one that you intend to marry.",
+        "Beach_Mariner_PlayerNotUpgradedHouse": "Sabrina: I can see that sparkle in your eye, {0}. You must be head over heels in love. But I am afraid that a bigger house is essential for a happy marriage.",
+        "Beach_Mariner_PlayerBuyItem_Question": "Sabrina: Ah, I can see it in your eyes... There is a special someone in your heart. It just so happens that I am selling one of my precious 'Mermaid's Pendants'. Give that to your intended and they will know exactly what you mean.",
+        "Beach_Mariner_PlayerNoRelationship": "Sabrina: I have an important amulet to sell... but something tells me that you are not ready for it, {0}."
+      },
+      "When": {
+        "Language": "en",
+        "Season": "spring"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Mariner",
+      "FromFile": "assets/Pearl.png",
+      "When": {
+        "Language": "en",
+        "Season": "summer"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/Locations",
+      "Entries": {
+        "Beach_Mariner_Player_Male": "cutie",
+        "Beach_Mariner_Player_Female": "sweetie",
+        "Beach_Mariner_PlayerMarried": "Pearl: I am glad that the amulet worked out for you, sweetheart.",
+        "Beach_Mariner_PlayerHasItem": "Pearl: Do not be shy, now. Show that amulet to the one that you intend to marry.",
+        "Beach_Mariner_PlayerNotUpgradedHouse": "Pearl: I can see that sparkle in your eye, {0}. You must be head over heels in love. But I am afraid that a bigger house is essential for a happy marriage.",
+        "Beach_Mariner_PlayerBuyItem_Question": "Pearl: Ah, I can see it in your eyes... There is a special someone in your heart. It just so happens that I am selling one of my precious 'Mermaid's Pendants'. Give that to your intended and they will know exactly what you mean.",
+        "Beach_Mariner_PlayerNoRelationship": "Pearl: I have an important amulet to sell... but something tells me that you are not ready for it, {0}."
+      },
+      "When": {
+        "Language": "en",
+        "Season": "summer"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Mariner",
+      "FromFile": "assets/Delphine.png",
+      "When": {
+        "Language": "en",
+        "Season": "fall"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/Locations",
+      "Entries": {
+        "Beach_Mariner_PlayerMarried": "Delphine: I am glad that the amulet worked out for you, honey.",
+        "Beach_Mariner_PlayerHasItem": "Delphine: Do not be shy, now. Show that amulet to the one that you intend to marry.",
+        "Beach_Mariner_PlayerNotUpgradedHouse": "Delphine: I can see that sparkle in your eye, {0}. You must be head over heels in love. But I am afraid that a bigger house is essential for a happy marriage.",
+        "Beach_Mariner_PlayerBuyItem_Question": "Delphine: Ah, I can see it in your eyes... There is a special someone in your heart. It just so happens that I am selling one of my precious 'Mermaid's Pendants'. Give that to your intended and they will know exactly what you mean.",
+        "Beach_Mariner_PlayerNoRelationship": "Delphine: I have an important amulet to sell... but something tells me that you are not ready for it, {0}."
+      },
+      "When": {
+        "Language": "en",
+        "Season": "fall"
+      }
+    }
+  ]
+}
