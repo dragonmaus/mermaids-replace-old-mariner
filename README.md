@@ -9,7 +9,6 @@ This is my first venture into the world of modding Stardew Valley, so suggestion
 
 **Contributions are very welcome** (especially translations and graphics)!
 
-
 #### Installation
 1. Install [the latest version of SMAPI](https://smapi.io/).
 2. Install [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915).
