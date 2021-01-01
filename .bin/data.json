@@ -6,28 +6,28 @@
   },
   "noun": {
     "female": {
-      "Default":  "miss",
-      "Sabrina":  "missy",
-      "Pearl":    "sweetie"
+      "Default": "miss",
+      "Sabrina": "missy",
+      "Pearl":   "sweetie"
     },
     "male": {
-      "Default":  "lad",
-      "Sabrina":  "boy",
-      "Pearl":    "cutie"
+      "Default": "lad",
+      "Sabrina": "boy",
+      "Pearl":   "cutie"
     }
   },
   "dialogue": {
     "answer_no": {
-      "Default":  "Not now..."
+      "Default": "Not now…"
     },
     "answer_yes": {
-      "Default":  "Buy (5000g)"
+      "Default": "Buy (5000g)"
     },
     "question": {
-      "Default":  "Ah, I can see it in yer eyes... There be a special someone in yer heart. Just so happens I'm sellin' a 'Mermaid's Pendant'. Give that to yer intended and they'll know exactly what you mean.",
-      "Sabrina":  "Ah, I can see it in your eyes... There is a special someone in your heart. It just so happens that I am selling one of my precious 'Mermaid's Pendants'. Give that to your intended and they will know exactly what you mean.",
-      "Pearl":    "Ah, I can see it in your eyes... There is a special someone in your heart. It just so happens that I am selling one of my precious 'Mermaid's Pendants'. Give that to your intended and they will know exactly what you mean.",
-      "Delphine": "Ah, I can see it in your eyes... There is a special someone in your heart. It just so happens that I am selling one of my precious 'Mermaid's Pendants'. Give that to your intended and they will know exactly what you mean."
+      "Default":  "Ah, I can see it in yer eyes… There be a special someone in yer heart. Just so happens I'm sellin' a 'Mermaid's Pendant'. Give that to yer intended and they'll know exactly what you mean.",
+      "Sabrina":  "Ah, I can see it in your eyes… There is a special someone in your heart. It just so happens that I am selling one of my precious 'Mermaid's Pendants'. Give that to your intended and they will know exactly what you mean.",
+      "Pearl":    "Ah, I can see it in your eyes… There is a special someone in your heart. It just so happens that I am selling one of my precious 'Mermaid's Pendants'. Give that to your intended and they will know exactly what you mean.",
+      "Delphine": "Ah, I can see it in your eyes… There is a special someone in your heart. It just so happens that I am selling one of my precious 'Mermaid's Pendants'. Give that to your intended and they will know exactly what you mean."
     }
   },
   "override": {
@@ -44,10 +44,10 @@
       "Delphine": "I am glad that the amulet worked out for you, honey."
     },
     "no_relationship": {
-      "Default":  "I've got this old amulet to sell... but somethin' tells me yer not ready for it, {0}.",
-      "Sabrina":  "I have an important amulet to sell... but something tells me that you are not ready for it, {0}.",
-      "Pearl":    "I have an important amulet to sell... but something tells me that you are not ready for it, {0}.",
-      "Delphine": "I have an important amulet to sell... but something tells me that you are not ready for it, {0}."
+      "Default":  "I've got this old amulet to sell… but somethin' tells me yer not ready for it, {0}.",
+      "Sabrina":  "I have an important amulet to sell… but something tells me that you are not ready for it, {0}.",
+      "Pearl":    "I have an important amulet to sell… but something tells me that you are not ready for it, {0}.",
+      "Delphine": "I have an important amulet to sell… but something tells me that you are not ready for it, {0}."
     },
     "not_upgraded_house": {
       "Default":  "I can see that sparkle in yer eye, {0}. Ye must be head over heels in love. But I'm afraid a bigger house is essential for a happy marriage.",
